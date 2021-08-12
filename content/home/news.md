@@ -4,7 +4,7 @@ widget_id: newsies
 headless: true
 weight: 30
 title: zz
-subtitle: null
+subtitle: zz
 content:
   count: 5
   filters:
