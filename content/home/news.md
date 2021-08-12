@@ -3,7 +3,7 @@ widget: pages
 widget_id: newsies
 headless: true
 weight: 30
-title: Latest News
+title: zz
 subtitle: null
 content:
   count: 5
