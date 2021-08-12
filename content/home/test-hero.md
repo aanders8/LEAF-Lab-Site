@@ -13,4 +13,4 @@ design:
     image_darken: 0
     image: ""
 ---
-![leaf lab](hero.png)
+![leaf lab](assets/media/hero.png)
