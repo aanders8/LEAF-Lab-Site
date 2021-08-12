@@ -7,7 +7,7 @@ title: Test
 subtitle: Why won' this work
 active: true
 design:
-  columns: "1"
+  columns: ""
   background:
     text_color_light: false
     image_darken: 0
