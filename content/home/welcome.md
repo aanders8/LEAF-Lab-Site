@@ -2,9 +2,9 @@
 widget: Hero
 widget_id: Hero-widget
 headless: true
-weight: 10
+weight: 0
 title: ""
-active: false
+active: true
 design:
   columns: ""
   css_style: null
