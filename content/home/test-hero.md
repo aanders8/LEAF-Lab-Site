@@ -11,6 +11,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: ""
+    image: "hero.png"
 ---
-![leaf lab](assets/media/hero.png)
