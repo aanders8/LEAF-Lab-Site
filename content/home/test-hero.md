@@ -1,13 +1,13 @@
 ---
-widget: hero
-widget_id: Test-hero
+widget: blank
+widget_id: top hero
 headless: true
 weight: 10
-title: My Hero
-subtitle: Is good
+title: ""
+subtitle: ""
 active: true
 design:
-  columns: 
+  columns: null
   background:
     text_color_light: false
     image_darken: 0
