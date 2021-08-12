@@ -7,7 +7,7 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: null
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
