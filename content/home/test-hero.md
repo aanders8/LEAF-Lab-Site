@@ -7,7 +7,7 @@ title: My Hero
 subtitle: Is good
 active: true
 design:
-  columns: "2"
+  columns: 
   background:
     text_color_light: false
     image_darken: 0
