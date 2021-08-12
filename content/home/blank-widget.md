@@ -2,7 +2,7 @@
 widget: Blank
 widget_id: Blank widget
 headless: true
-weight: 5
+weight: 10
 title: Test
 subtitle: Why won' this work
 active: true
