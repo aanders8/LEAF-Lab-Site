@@ -4,7 +4,7 @@ widget_id: Hero-widget
 headless: true
 weight: 10
 title: ""
-active: true
+active: false
 design:
   columns: ""
   css_style: null
